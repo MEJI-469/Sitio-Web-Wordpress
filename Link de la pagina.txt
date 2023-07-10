@@ -1,2 +1,5 @@
-Link de la pagina wordpress:
+Link principal de la pagina wordpress:
+http://hosting-free.great-site.net/
+
+Link secundario de la pagina wordpress:
 https://flexural-dart.000webhostapp.com/
